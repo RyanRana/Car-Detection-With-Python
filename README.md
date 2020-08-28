@@ -5,4 +5,5 @@ Built with Python. Uses OpenCv's Haar Algoritham to detect pictures of cars in a
 To Run,
 
 Open Terminal, type pip install cv2
+
 Then run tracker.py
